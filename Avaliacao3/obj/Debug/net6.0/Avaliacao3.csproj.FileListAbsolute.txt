@@ -1,0 +1,15 @@
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\Avaliacao3.csproj.AssemblyReference.cache
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\Avaliacao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\Avaliacao3.AssemblyInfoInputs.cache
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\Avaliacao3.AssemblyInfo.cs
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\Avaliacao3.csproj.CoreCompileInputs.cache
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\bin\Debug\net6.0\Avaliacao3.exe
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\bin\Debug\net6.0\Avaliacao3.deps.json
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\bin\Debug\net6.0\Avaliacao3.runtimeconfig.json
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\bin\Debug\net6.0\Avaliacao3.dll
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\bin\Debug\net6.0\Avaliacao3.pdb
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\Avaliacao3.dll
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\refint\Avaliacao3.dll
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\Avaliacao3.pdb
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\Avaliacao3.genruntimeconfig.cache
+C:\Users\2022102020062\source\repos\Avaliacao3\Avaliacao3\obj\Debug\net6.0\ref\Avaliacao3.dll
